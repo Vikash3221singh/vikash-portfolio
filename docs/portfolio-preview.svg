@@ -1,0 +1,42 @@
+<svg width="1400" height="900" viewBox="0 0 1400 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1400" height="900" fill="#07131F"/>
+  <rect x="52" y="42" width="1296" height="816" rx="28" fill="#0D1D2B" stroke="#1B3547"/>
+  <rect x="94" y="82" width="1212" height="58" rx="18" fill="#122739"/>
+  <circle cx="136" cy="111" r="16" fill="#72E2FF"/>
+  <rect x="178" y="98" width="170" height="26" rx="13" fill="#1A3040"/>
+  <rect x="972" y="98" width="118" height="26" rx="13" fill="#1A3040"/>
+  <rect x="1108" y="98" width="90" height="26" rx="13" fill="#1A3040"/>
+  <rect x="1208" y="98" width="80" height="26" rx="13" fill="#72E2FF"/>
+  <text x="116" y="220" fill="#EBF6FF" font-family="Arial" font-size="70" font-weight="700">Building the future with</text>
+  <text x="116" y="300" fill="#72E2FF" font-family="Arial" font-size="72" font-weight="700">cloud, code, and community</text>
+  <text x="116" y="358" fill="#A7BFD4" font-family="Arial" font-size="26">Technology enthusiast ? AWS Student Builder ? Community leader</text>
+  <rect x="116" y="392" width="210" height="60" rx="30" fill="#72E2FF"/>
+  <text x="163" y="430" fill="#04161F" font-family="Arial" font-size="26" font-weight="700">See my work</text>
+  <rect x="348" y="392" width="212" height="60" rx="30" fill="#122739" stroke="#1B3547"/>
+  <text x="398" y="430" fill="#EBF6FF" font-family="Arial" font-size="26" font-weight="700">LinkedIn</text>
+  <rect x="116" y="520" width="250" height="114" rx="20" fill="#122739" stroke="#1B3547"/>
+  <text x="154" y="570" fill="#72E2FF" font-family="Arial" font-size="34" font-weight="700">2+</text>
+  <text x="152" y="602" fill="#A7BFD4" font-family="Arial" font-size="22">years learning</text>
+  <rect x="390" y="520" width="250" height="114" rx="20" fill="#122739" stroke="#1B3547"/>
+  <text x="430" y="570" fill="#72E2FF" font-family="Arial" font-size="34" font-weight="700">10+</text>
+  <text x="425" y="602" fill="#A7BFD4" font-family="Arial" font-size="22">tech initiatives</text>
+  <rect x="662" y="520" width="250" height="114" rx="20" fill="#122739" stroke="#1B3547"/>
+  <text x="700" y="570" fill="#72E2FF" font-family="Arial" font-size="34" font-weight="700">1</text>
+  <text x="682" y="602" fill="#A7BFD4" font-family="Arial" font-size="22">community impact</text>
+  <rect x="1060" y="184" width="214" height="270" rx="30" fill="#122739" stroke="#1B3547"/>
+  <circle cx="1167" cy="260" r="62" fill="#72E2FF" fill-opacity="0.2" stroke="#72E2FF"/>
+  <circle cx="1167" cy="260" r="38" fill="#72E2FF"/>
+  <text x="1105" y="358" fill="#EBF6FF" font-family="Arial" font-size="28" font-weight="700">Vikash Singh</text>
+  <text x="1084" y="392" fill="#A7BFD4" font-family="Arial" font-size="18">Cloud learner ? community builder</text>
+  <rect x="1084" y="420" width="164" height="18" rx="9" fill="#1B3547"/>
+  <rect x="1084" y="420" width="98" height="18" rx="9" fill="#76F2B7"/>
+  <rect x="116" y="680" width="340" height="110" rx="20" fill="#122739" stroke="#1B3547"/>
+  <text x="148" y="730" fill="#EBF6FF" font-family="Arial" font-size="30" font-weight="700">About me</text>
+  <text x="148" y="762" fill="#A7BFD4" font-family="Arial" font-size="18">Story-driven, community-first, product-minded.</text>
+  <rect x="480" y="680" width="340" height="110" rx="20" fill="#122739" stroke="#1B3547"/>
+  <text x="512" y="730" fill="#EBF6FF" font-family="Arial" font-size="30" font-weight="700">Skills</text>
+  <text x="512" y="762" fill="#A7BFD4" font-family="Arial" font-size="18">Cloud ? AI ? DevOps ? Python</text>
+  <rect x="844" y="680" width="340" height="110" rx="20" fill="#122739" stroke="#1B3547"/>
+  <text x="876" y="730" fill="#EBF6FF" font-family="Arial" font-size="30" font-weight="700">Projects</text>
+  <text x="876" y="762" fill="#A7BFD4" font-family="Arial" font-size="18">Portfolio ? AI Assistant ? Events</text>
+</svg>

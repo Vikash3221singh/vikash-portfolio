@@ -1,0 +1,24 @@
+<svg width="1200" height="700" viewBox="0 0 1200 700" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="700" fill="#07131F"/>
+  <text x="80" y="80" fill="#EBF6FF" font-family="Arial" font-size="44" font-weight="700">AWS Deployment Flow</text>
+  <rect x="80" y="160" width="220" height="120" rx="24" fill="#122739" stroke="#1B3547"/>
+  <text x="132" y="220" fill="#72E2FF" font-family="Arial" font-size="28" font-weight="700">S3</text>
+  <text x="118" y="250" fill="#A7BFD4" font-family="Arial" font-size="18">Static web content</text>
+  <path d="M300 220H430" stroke="#72E2FF" stroke-width="4" stroke-linecap="round"/>
+  <path d="M430 220L412 206M430 220L412 234" stroke="#72E2FF" stroke-width="4" stroke-linecap="round"/>
+  <rect x="430" y="160" width="260" height="120" rx="24" fill="#122739" stroke="#1B3547"/>
+  <text x="500" y="220" fill="#76F2B7" font-family="Arial" font-size="28" font-weight="700">CloudFront</text>
+  <text x="484" y="250" fill="#A7BFD4" font-family="Arial" font-size="18">Global HTTPS delivery</text>
+  <path d="M690 220H856" stroke="#76F2B7" stroke-width="4" stroke-linecap="round"/>
+  <path d="M856 220L838 206M856 220L838 234" stroke="#76F2B7" stroke-width="4" stroke-linecap="round"/>
+  <rect x="856" y="160" width="264" height="120" rx="24" fill="#122739" stroke="#1B3547"/>
+  <text x="920" y="220" fill="#9D7BFF" font-family="Arial" font-size="28" font-weight="700">Route 53</text>
+  <text x="906" y="250" fill="#A7BFD4" font-family="Arial" font-size="18">Optional custom domain</text>
+  <rect x="260" y="390" width="680" height="200" rx="24" fill="#122739" stroke="#1B3547"/>
+  <text x="320" y="450" fill="#EBF6FF" font-family="Arial" font-size="30" font-weight="700">Deploy stack</text>
+  <text x="320" y="499" fill="#A7BFD4" font-family="Arial" font-size="22">- Upload static files to S3</text>
+  <text x="320" y="540" fill="#A7BFD4" font-family="Arial" font-size="22">- Enable CDN and HTTPS via CloudFront</text>
+  <text x="320" y="581" fill="#A7BFD4" font-family="Arial" font-size="22">- Use Route 53 for custom domain management</text>
+  <circle cx="1040" cy="490" r="66" fill="#72E2FF" fill-opacity="0.15"/>
+  <text x="988" y="500" fill="#72E2FF" font-family="Arial" font-size="22" font-weight="700">AWS</text>
+</svg>
